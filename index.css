@@ -1,0 +1,99 @@
+body {
+    padding: 0, 0;
+    margin: 0, 0;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #c1c1c1;
+}
+
+#image1 {
+    border-radius: 30px;
+    border: 2px solid black;
+    width: 50px;
+}
+
+#image1:hover {
+    opacity: 50%
+}
+
+#nav-link {
+    padding: 12px;
+    position: relative;
+    right: 10px;
+    color: rgb(119 136 153);
+    text-transform: capitalize;
+    cursor: pointer
+}
+
+#nav-link:hover {
+    text-decoration: underline
+}
+
+#search-bar {
+    display: flex;
+    justify-content: center
+}
+
+.heading1,
+.para1,
+.heading2 {
+    padding-top: 24px;
+    color: black;
+    display: block;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.heading2 {
+    color: black;
+    font-size: x-large;
+
+}
+
+.para1 {
+    text-decoration: none;
+    font-size: large;
+    padding-top: 8px;
+    color: gray;
+
+}
+
+.banner {
+    background: url(Inages/pexels-emirkhan-bal-953864.jpg);
+    margin-top: 40px;
+    background-color: #f8f9fa;
+    width: 900px;
+    height: 295px;
+
+}
+
+.flex_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.button_flex {
+    display: flex;
+    padding-top: 12px;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-end;
+    flex-direction: column;
+}
+
+#buy_now {
+    margin-bottom: 14px;
+}
+
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 12px;
+    margin-left: 40px;
+    display: inline-block;
+    padding-top: 12px;
+}
