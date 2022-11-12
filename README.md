@@ -11,9 +11,7 @@ A Online Shopping App Using Html Css Bootstarp
 Take A Look
 
 
-```Link Of My Project```
- 
-Oratsourapp.Netlify.App
+```Link Of My Project``` - https://oratsourapp.netlify.app/
 
 
 
